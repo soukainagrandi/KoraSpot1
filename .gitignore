@@ -1,0 +1,14 @@
+#fichiers de compilation 
+bin/
+build/
+target/
+*.class
+*.jar
+*.war
+#Fichiers IDE
+.DS_Store
+*.log 
+*.tmp
+#Environnements virtuels
+.vscode/
+.idea/
